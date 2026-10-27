@@ -1,0 +1,23 @@
+User Service
+============
+
+Service ID: US-2048
+Status: Active
+
+Summary:
+This user service manages customer account lifecycle operations, including registration, profile updates, authentication, and account deactivation workflows.
+
+Capabilities:
+- Create new user accounts
+- Validate login credentials
+- Reset forgotten passwords
+- Update user profile details
+- Suspend or deactivate accounts
+- Audit user activity and access events
+
+Notes:
+- Uses secure token-based authentication
+- Logs all critical changes for compliance review
+- Supports role-based access control for admin operations
+
+Generated at: 2026-10-27
